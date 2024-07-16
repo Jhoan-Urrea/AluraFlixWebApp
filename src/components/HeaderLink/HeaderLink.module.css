@@ -1,0 +1,19 @@
+.headerLink {
+    display: flex;
+    width: 170px;
+    height: 40px;
+    border-radius: 10px;
+    border: 2px solid #F5F5F5;
+    color: var(--text-color);
+    font-size: 20px;
+    font-weight: 900;
+    background-color: transparent;
+    justify-content: center;
+    align-items: center;
+}
+
+.headerLink:hover{
+    color: var(--border-blue);
+    border: 2px solid var(--Blue, #2271D1);
+    box-shadow: 0px 0px 12px 3px #2271D1 ;
+}

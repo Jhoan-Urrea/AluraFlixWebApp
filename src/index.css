@@ -1,0 +1,17 @@
+:root{
+  --font:"Roboto", sans-serif;
+  --shadow-blue:#2271D1B2;
+  --bg-black:#000000E5;
+  ;
+  --border-blue:#2271D1;
+  --blue: blue;
+  --text-color: #ffffff;
+  --Dark-Grey: #262626;
+}
+
+
+body {
+  margin: 0;
+  font-family: var(--font);
+  background-color: var(--bg-black);
+}

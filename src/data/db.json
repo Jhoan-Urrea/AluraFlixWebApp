@@ -1,0 +1,62 @@
+{
+    "videos": [
+      {
+        "id": "1",
+        "title": "¿Sabes qué es NodeJS?",
+        "category": "Fullstack",
+        "imageUrl": "https://img-c.udemycdn.com/course/480x270/3098048_70dd_3.jpg",
+        "videoUrl": "https://youtu.be/o8x_n4Px1N0",
+        "description": "¿Es un lenguaje de programación? ¿Es un ambiente de desarrollo? ¿Una herramienta? En este video nuestro instructor, Leonardo Castillo, nos explica qué es NodeJS y para qué sirve."
+      },
+      {
+        "id": "7",
+        "title": "Fullstack Project: Building a MERN Stack Application",
+        "category": "Fullstack",
+        "imageUrl": "https://www.cursosdev.com/ezoimgfmt/img-c.udemycdn.com/course/480x270/2264768_a446_2.jpg?ezimgfmt=rs:384x216/rscb1/ngcb1/notWebP",
+        "videoUrl": "",
+        "description": "A step-by-step guide to building a fullstack application using MongoDB, Express.js, React.js, and Node.js."
+      },
+      {
+        "id": "2",
+        "title": "React Hooks: ¿qué son y cómo funcionan?",
+        "category": "Frontend",
+        "imageUrl": "https://edteam-media.s3.amazonaws.com/courses/original/24cf4d03-6a43-4a73-b2b9-338a4a62e2d2.png",
+        "videoUrl": "https://youtu.be/9xlea2yDFaY",
+        "description": "En este Alura+ el instructor Daniel Riverol nos enseña los diferentes usos de uno de los hooks más utilizados en React"
+      },
+      {
+        "id": "fd3",
+        "title": "Camino hacia el éxito como desarrollador Java",
+        "category": "Backend",
+        "imageUrl": "https://blog.facialix.com/wp-content/uploads/2021/03/java-curso-1.jpg",
+        "videoUrl": "https://youtu.be/zOetOoeOrOg",
+        "description": "¡Descubre el camino hacia el éxito como desarrollador Java! 💻🚀 En esta entrevista, exploramos los secretos del mundo Java y respondemos a tus preguntas clave"
+
+    
+      },
+      {
+        "id": "4asdfff",
+        "title": "Node.js for Beginners",
+        "category": "Backend",
+        "imageUrl": "https://edteam-media.s3.amazonaws.com/specialities/original/662ba6d8-9458-489e-bb3a-5ee98183ae6d.png",
+        "videoUrl": "",
+        "description": "Start your journey into backend development with Node.js."
+      },
+      {
+        "id": "454",
+        "title": "Node.js for Beginners",
+        "category": "Backend",
+        "imageUrl": "https://blog.facialix.com/wp-content/uploads/2021/03/curso-backend-facialix.jpg",
+        "videoUrl": "",
+        "description": "12 Start your journey into backend development with Node.js."
+      },
+      {
+        "id": "8",
+        "title": "Deploying Applications with Docker",
+        "category": "Backend",
+        "imageUrl": "https://cdn.openwebinars.net/media/facebook-ads-docker-desarrolladores.png",
+        "videoUrl": "",
+        "description": "1.1 Learn how to containerize and deploy applications using Docker."
+      }
+    ]
+  }
