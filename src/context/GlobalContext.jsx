@@ -34,7 +34,7 @@ const GlobalContextProvider = ({ children }) => {
 
   useEffect(() => {
     const getData = async () => {
-      const res = await fetch("http://localhost:3001/videos");
+      const res = await fetch("https://api-fake-alura-flix.vercel.app/videos");
       const data = await res.json();
       dispatch({ type: "SET_VIDEOS", payload: data });
       
